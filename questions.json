@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "question": "Tell me about yourself.",
+    "category": "General",
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": 2,
+    "question": "Why are you interested in this opportunity (or company)?",
+    "category": "General",
+    "created_at": "",
+    "updated_at": ""
+  }
+]
